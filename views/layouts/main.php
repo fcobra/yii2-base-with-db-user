@@ -67,7 +67,7 @@ AppAsset::register($this);
 
 <footer class="footer">
     <div class="container">
-        <p class="pull-left">&copy; <?= date('Y') ?>, Окрестный мир</p>
+        <p class="pull-left">&copy; <?= date('Y') ?>, ООО Компания</p>
 
         <?php /* <p class="pull-right"><?= Yii::powered() ?></p> */ ?>
     </div>
